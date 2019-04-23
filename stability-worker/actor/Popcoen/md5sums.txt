@@ -1,0 +1,11 @@
+ae264bc0db3f642903a6153a190dc407  3x2m.pdb
+1a40133b6bdd7eb1af4471c0411ad10a  client_for_popcoen.py
+8b369de7c511f21d1be5d1d61d3f0930  Geometrics_of_MoDEL_trainingdata.csv
+e04edc4d672b357663ab1aac59e31610  popcoenMain.py
+35cc27bf9c6caebf11081d7379e19380  PopcoenNN_package.zip
+ccbc9dd35180d8191b16c1a0d2d5531d  Popcoen_Reliability_number.py
+27d8d447fa161b741f34e7f4b0adc9cf  popcoen_server.py
+7c74dc22c89e6108806942516584e72d  PoPE_feature_measure2.py
+7d4dc4a3d3362c1f175a644b5cc33b12  PoPE_feature_measure.py
+82799d22fd1bc4236167fcb37ffe4d9a  PoPE_features.py
+8e825d86ab50c5da14a276ae819a0859  readme.txt

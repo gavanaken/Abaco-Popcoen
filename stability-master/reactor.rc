@@ -1,0 +1,9 @@
+# Reactor mandatory settings
+REACTOR_NAME=popcoen-master
+# REACTOR_DESCRIPTION=
+# REACTOR_ALIAS=my_reactor
+
+# Docker settings
+DOCKER_HUB_ORG=gvanaken
+DOCKER_IMAGE_TAG=popcoen-master
+DOCKER_IMAGE_VERSION=0.1.0
